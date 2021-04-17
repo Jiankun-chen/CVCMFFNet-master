@@ -71,10 +71,10 @@
 </p>
 
 <p align="center">
-  <img src=".\fig\5.png" width=150 height=150>
-  <img src=".\fig\10.png" width=150 height=150>
-  <img src=".\fig\15.png" width=150 height=150>
-  <img src=".\fig\13.png" width=150 height=150>
+  <img src=".\fig\sim-22.png" width=150 height=150>
+  <img src=".\fig\sim-29.png" width=150 height=150>
+  <img src=".\fig\sim-38.png" width=150 height=150>
+  <img src=".\fig\sim-51.png" width=150 height=150>
 </p>
 
 <p align="center">
@@ -85,10 +85,10 @@
 </p>
 
 <p align="center">
-  <img src=".\fig\14.png" width=150 height=150>
-  <img src=".\fig\17.png" width=150 height=150>
-  <img src=".\fig\11.png" width=150 height=150>
-  <img src=".\fig\18.png" width=150 height=150>
+  <img src=".\fig\sim-172.png" width=150 height=150>
+  <img src=".\fig\sim-264.png" width=150 height=150>
+  <img src=".\fig\sim-270.png" width=150 height=150>
+  <img src=".\fig\sim-300.png" width=150 height=150>
 </p>
 
 *Segmentation results on the real airborne InSAR images:*
