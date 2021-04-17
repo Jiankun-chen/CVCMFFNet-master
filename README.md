@@ -60,8 +60,22 @@
 ## Experimental result ##
 *The experimental curve are in the folder ./Curve: accuracy.svg; loss.svg; iou-class0.svg; iou-class1.svg; iou-class2.svg;*
 
- *The Predicted segmentation pattern are in folders: ./outtag/result1-> simulated InSAR building images; ./outtag/result2-> real airborne InSAR images;*
+*The Predicted segmentation pattern are in folders: ./outtag/result1-> simulated InSAR building images; ./outtag/result2-> real airborne InSAR images;*
+ 
+*Segmentation results on the simulated InSAR building dataset:*
+<p align="center">
+  <img src=".\Data\Test1\Images\real1\22.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\29.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\38.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\51.png" width=150 height=150>
+</p>
 
+<p align="center">
+  <img src=".\Data\Test1\Images\real1\22.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\29.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\38.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\51.png" width=150 height=150>
+</p>
 *The segmentation performance of CVCMFF Net is significantly improved compared with those of **other state-of-the-art networks**, as can see in:* [https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images](https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images)
 
 ## Feature visualization ##
