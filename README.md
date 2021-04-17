@@ -135,14 +135,14 @@
 *You can visualize feature maps in ***train.py*** by turning on line 50 while commenting out line 52, turning on line 110 while commenting out line 111, and turning on line 139-170.*
 
 ## Model Evaluation ##
-*When the model reaches an absolute accuracy, additional evaluation indexes are needed to evaluate the model:
-- Floating-point operations (FLOPs), which can be understood as a calculation amount required for forward propagation and reflects the hardware’s performance requirements such as GPU; 
-- Number of parameters describe model complexity;
-- Model size reflects the amount of memory occupied;
-- Model speed is used to measure the time required for a model to train or test a single image;
-- Training time evaluates the convergence speed of the model in practical engineering applications.
+*When the model reaches an absolute accuracy, additional evaluation indexes are needed to evaluate the model:*
+- *Floating-point operations (FLOPs), which can be understood as a calculation amount required for forward propagation and reflects the hardware’s performance requirements such as GPU;* 
+- *Number of parameters describe model complexity;*
+- *Model size reflects the amount of memory occupied;*
+- *Model speed is used to measure the time required for a model to train or test a single image;*
+- *Training time evaluates the convergence speed of the model in practical engineering applications.*
 
-The above indicators have an essential reference for model implementation and are shown in Table*
+*The above indicators have an essential reference for model implementation and are shown in Table*
 <p align="center">
   <img src=".\fig\model-eva.png" width=984 height=159>
 </p>
