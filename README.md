@@ -144,7 +144,7 @@
 
 The above indicators have an essential reference for model implementation and are shown in Table*
 <p align="center">
-  <img src=".\fig\model-eva.png" width=1968 height=318>
+  <img src=".\fig\model-eva.png" width=1324 height=212>
 </p>
 
 > Author: Jiankun Chen
