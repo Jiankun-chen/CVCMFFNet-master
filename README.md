@@ -71,11 +71,26 @@
 </p>
 
 <p align="center">
-  <img src=".\Data\Test1\Images\real1\22.png" width=150 height=150>
-  <img src=".\Data\Test1\Images\real1\29.png" width=150 height=150>
-  <img src=".\Data\Test1\Images\real1\38.png" width=150 height=150>
-  <img src=".\Data\Test1\Images\real1\51.png" width=150 height=150>
+  <img src=".\fig\5.png" width=150 height=150>
+  <img src=".\fig\10.png" width=150 height=150>
+  <img src=".\fig\15.png" width=150 height=150>
+  <img src=".\fig\13.png" width=150 height=150>
 </p>
+
+<p align="center">
+  <img src=".\Data\Test1\Images\real1\172.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\264.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\270.png" width=150 height=150>
+  <img src=".\Data\Test1\Images\real1\300.png" width=150 height=150>
+</p>
+
+<p align="center">
+  <img src=".\fig\14.png" width=150 height=150>
+  <img src=".\fig\17.png" width=150 height=150>
+  <img src=".\fig\11.png" width=150 height=150>
+  <img src=".\fig\18.png" width=150 height=150>
+</p>
+
 *The segmentation performance of CVCMFF Net is significantly improved compared with those of **other state-of-the-art networks**, as can see in:* [https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images](https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images)
 
 ## Feature visualization ##
