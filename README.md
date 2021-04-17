@@ -6,6 +6,8 @@
 ## About the Data set ##
 *The simulated InSAR building dataset contains 312 simulated SAR image pairs generated from 39 different building models. Each building model is simulated at 8 viewing-angles. The sample number is 270 of the train set and is 42 of the test set. Each simulated InSAR sample contains three channels: master SAR image, slave SAR image, and interferometric phase image. This dataset serves the CVCMFF Net for building semantic segmentation of InSAR images.*
 
+***For more information, please refer to the article: https://ieeexplore.ieee.org/document/9397870***
+
 ***Configuration of the ground truth label is: 0 = shadow; 1 = ground or single scattering; 2 = layover or secondary scattering.***
 
 *You can get more information about the simulated InSAR building dataset from:* [https://ieee-dataport.org/documents/simulated-insar-building-dataset-cvcmff-net](https://ieee-dataport.org/documents/simulated-insar-building-dataset-cvcmff-net)
