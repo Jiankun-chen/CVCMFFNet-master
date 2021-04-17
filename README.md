@@ -129,7 +129,7 @@
   <img src=".\fig\ra-5-mix.png" width=150 height=150>
 </p>
 
-*The segmentation performance of CVCMFF Net is significantly improved compared with those of **other state-of-the-art networks**, as can see in:* [https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images](https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images)
+*The segmentation performance of CVCMFF Net is significantly improved compared with those of **other state-of-the-art networks**, referring to:* [https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images](https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images)
 
 ## Feature Visualization ##
 *You can visualize feature maps in ***train.py*** by turning on line 50 while commenting out line 52, turning on line 110 while commenting out line 111, and turning on line 139-170.*
