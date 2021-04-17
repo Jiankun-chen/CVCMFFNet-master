@@ -57,10 +57,17 @@
 ## Train and test ##
 *Please run **train.py** and set the parameter SAVE_INTERVAL in line 34. It is the number of iteration intervals to save the model during training. When the specified SAVE_INTERVAL is reached, the network will automatically extract samples for testing and synchronously output the current network's performance on both the train set and the test set. So we can monitor the network status dynamically. We can also view the curves and predicted patterns on tensorboard.*
 
-*The curves (orange for TRAIN and blue for TEST) of OA and LOSS versus training epoch are:
+*The curves (orange for TRAIN and blue for TEST) of OA and LOSS versus training epoch are:*
 <p align="center">
   <img src=".\Curve\accuracy.svg" width=450 height=300>
   <img src=".\Curve\loss.svg" width=450 height=300>
+</p>
+
+*The curves (orange for TRAIN and blue for TEST) of Iou_class0, Iou_class1, and Iou_class2 versus training epoch are:*
+<p align="center">
+  <img src=".\Curve\iou_class0.svg" width=450 height=300>
+  <img src=".\Curve\iou_class1.svg" width=450 height=300>
+  <img src=".\Curve\iou_class2.svg" width=450 height=300>
 </p>
 
 ## Experimental result ##
