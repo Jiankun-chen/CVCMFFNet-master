@@ -97,15 +97,23 @@
   <img src=".\Data\Test2\Images\real1\2.png" width=150 height=150>
   <img src=".\Data\Test2\Images\real1\3.png" width=150 height=150>
   <img src=".\Data\Test2\Images\real1\4.png" width=150 height=150>
-  <img src=".\Data\Test2\Images\real1\4.png" width=150 height=150>
+  <img src=".\Data\Test2\Images\real1\5.png" width=150 height=150>
 </p>
 
 <p align="center">
-  <img src=".\fig\14.png" width=150 height=150>
-  <img src=".\fig\17.png" width=150 height=150>
-  <img src=".\fig\11.png" width=150 height=150>
-  <img src=".\fig\18.png" width=150 height=150>
-  <img src=".\fig\18.png" width=150 height=150>
+  <img src=".\fig\ra-1.png" width=150 height=150>
+  <img src=".\fig\ra-2.png" width=150 height=150>
+  <img src=".\fig\ra-3.png" width=150 height=150>
+  <img src=".\fig\ra-4.png" width=150 height=150>
+  <img src=".\fig\ra-5.png" width=150 height=150>
+</p>
+
+<p align="center">
+  <img src=".\fig\ra-1-mix.png" width=150 height=150>
+  <img src=".\fig\ra-2-mix.png" width=150 height=150>
+  <img src=".\fig\ra-3-mix.png" width=150 height=150>
+  <img src=".\fig\ra-4-mix.png" width=150 height=150>
+  <img src=".\fig\ra-5-mix.png" width=150 height=150>
 </p>
 
 *The segmentation performance of CVCMFF Net is significantly improved compared with those of **other state-of-the-art networks**, as can see in:* [https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images](https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images)
