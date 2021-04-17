@@ -91,6 +91,23 @@
   <img src=".\fig\18.png" width=150 height=150>
 </p>
 
+*Segmentation results on the real airborne InSAR images:*
+<p align="center">
+  <img src=".\Data\Test2\Images\real1\1.png" width=150 height=150>
+  <img src=".\Data\Test2\Images\real1\2.png" width=150 height=150>
+  <img src=".\Data\Test2\Images\real1\3.png" width=150 height=150>
+  <img src=".\Data\Test2\Images\real1\4.png" width=150 height=150>
+  <img src=".\Data\Test2\Images\real1\4.png" width=150 height=150>
+</p>
+
+<p align="center">
+  <img src=".\fig\14.png" width=150 height=150>
+  <img src=".\fig\17.png" width=150 height=150>
+  <img src=".\fig\11.png" width=150 height=150>
+  <img src=".\fig\18.png" width=150 height=150>
+  <img src=".\fig\18.png" width=150 height=150>
+</p>
+
 *The segmentation performance of CVCMFF Net is significantly improved compared with those of **other state-of-the-art networks**, as can see in:* [https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images](https://github.com/Jiankun-chen/building-semantic-segmentation-of-InSAR-images)
 
 ## Feature visualization ##
