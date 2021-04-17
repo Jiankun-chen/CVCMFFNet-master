@@ -142,7 +142,7 @@
 - *Model speed is used to measure the time required for a model to train or test a single image;*
 - *Training time evaluates the convergence speed of the model in practical engineering applications.*
 
-*The above indicators have an essential reference for model implementation and are shown in Table*
+*The above indicators have an essential reference for model implementation and are shown in Table:*
 <p align="center">
   <img src=".\fig\model-eva.png" width=984 height=159>
 </p>
